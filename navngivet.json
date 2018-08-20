@@ -1,0 +1,50 @@
+[
+    {
+        "id": "post1",
+        "lng": 12.538951,
+        "lat": 55.706312,
+        "ll": "55.706312, 12.538951",
+        "icon": "",
+        "title": "hej hej Go Keamon Go",
+        "txt": "Hej igen igen"
+    },
+    {
+        "id": "post2",
+        "lng": 12.539048,
+        "lat": 55.706503,
+        "ll": "55.706503,12.539048",
+        "icon": "",
+        "title": "hej hej Go Keamon Go",
+        "txt": "Hej igen igen"
+    }
+    ,
+    {
+        "id": "post3",
+        "lng": 12.540345,
+        "lat": 55.706089,
+        "ll": "55.706089,12.540345",
+        "icon": "",
+        "title": "hej hej Go Keamon Go",
+        "txt": "Hej igen igen"
+    }
+    ,
+    {
+        "id": "post4",
+        "lng": 12.540182,
+        "lat": 55.706122,
+        "ll": "55.706122,12.540182",
+        "icon": "",
+        "title": "hej hej Go Keamon Go",
+        "txt": "Hej igen igen"
+    }
+    ,
+    {
+        "id": "post5",
+        "lng": 12.5391907,
+        "lat": 55.706561,
+        "ll": "55.706561,12.5391907",
+        "icon": "",
+        "title": "hej hej Go Keamon Go",
+        "txt": "Hej igen igen"
+    }
+]
