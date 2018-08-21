@@ -60,7 +60,7 @@ function initMap() {
             animation: google.maps.Animation.DROP
         });
         var w = new google.maps.InfoWindow({
-            maxWidth: 100
+            maxWidth: 200
 
         });
         m.addListener("click", visinfo);
